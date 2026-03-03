@@ -25,7 +25,7 @@ export default function Services() {
             {/* Tráfego Pago */}
             <a
               className="group/card relative h-full overflow-hidden rounded-2xl bg-gray-800 p-px before:pointer-events-none before:absolute before:-left-40 before:-top-40 before:z-10 before:h-80 before:w-80 before:translate-x-[var(--mouse-x)] before:translate-y-[var(--mouse-y)] before:rounded-full before:bg-orange-500/80 before:opacity-0 before:blur-3xl before:transition-opacity before:duration-500 after:pointer-events-none after:absolute after:-left-48 after:-top-48 after:z-30 after:h-64 after:w-64 after:translate-x-[var(--mouse-x)] after:translate-y-[var(--mouse-y)] after:rounded-full after:bg-orange-500 after:opacity-0 after:blur-3xl after:transition-opacity after:duration-500 hover:after:opacity-20 group-hover:before:opacity-100"
-              href="https://wa.me/5511940754639"
+              href="https://wa.me/5511940754639?text=Olá,%20vim%20do%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20Tráfego%20Pago."
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -59,7 +59,7 @@ export default function Services() {
             {/* Social Media */}
             <a
               className="group/card relative h-full overflow-hidden rounded-2xl bg-gray-800 p-px before:pointer-events-none before:absolute before:-left-40 before:-top-40 before:z-10 before:h-80 before:w-80 before:translate-x-[var(--mouse-x)] before:translate-y-[var(--mouse-y)] before:rounded-full before:bg-orange-500/80 before:opacity-0 before:blur-3xl before:transition-opacity before:duration-500 after:pointer-events-none after:absolute after:-left-48 after:-top-48 after:z-30 after:h-64 after:w-64 after:translate-x-[var(--mouse-x)] after:translate-y-[var(--mouse-y)] after:rounded-full after:bg-orange-500 after:opacity-0 after:blur-3xl after:transition-opacity after:duration-500 hover:after:opacity-20 group-hover:before:opacity-100"
-              href="https://wa.me/5511940754639"
+              href="https://wa.me/5511940754639?text=Olá,%20vim%20do%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20Social%20Media."
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -93,7 +93,7 @@ export default function Services() {
             {/* SEO */}
             <a
               className="group/card relative h-full overflow-hidden rounded-2xl bg-gray-800 p-px before:pointer-events-none before:absolute before:-left-40 before:-top-40 before:z-10 before:h-80 before:w-80 before:translate-x-[var(--mouse-x)] before:translate-y-[var(--mouse-y)] before:rounded-full before:bg-orange-500/80 before:opacity-0 before:blur-3xl before:transition-opacity before:duration-500 after:pointer-events-none after:absolute after:-left-48 after:-top-48 after:z-30 after:h-64 after:w-64 after:translate-x-[var(--mouse-x)] after:translate-y-[var(--mouse-y)] after:rounded-full after:bg-orange-500 after:opacity-0 after:blur-3xl after:transition-opacity after:duration-500 hover:after:opacity-20 group-hover:before:opacity-100"
-              href="https://wa.me/5511940754639"
+              href="https://wa.me/5511940754639?text=Olá,%20vim%20do%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20como%20aparecer%20no%20topo%20do%20Google%20com%20SEO."
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -127,7 +127,7 @@ export default function Services() {
             {/* Google Meu Negócio */}
             <a
               className="group/card relative h-full overflow-hidden rounded-2xl bg-gray-800 p-px before:pointer-events-none before:absolute before:-left-40 before:-top-40 before:z-10 before:h-80 before:w-80 before:translate-x-[var(--mouse-x)] before:translate-y-[var(--mouse-y)] before:rounded-full before:bg-orange-500/80 before:opacity-0 before:blur-3xl before:transition-opacity before:duration-500 after:pointer-events-none after:absolute after:-left-48 after:-top-48 after:z-30 after:h-64 after:w-64 after:translate-x-[var(--mouse-x)] after:translate-y-[var(--mouse-y)] after:rounded-full after:bg-orange-500 after:opacity-0 after:blur-3xl after:transition-opacity after:duration-500 hover:after:opacity-20 group-hover:before:opacity-100"
-              href="https://wa.me/5511940754639"
+              href="https://wa.me/5511940754639?text=Olá,%20vim%20do%20seu%20site%20e%20gostaria%20de%20saber%20mais%20sobre%20o%20Google%20Meu%20Negócio."
               target="_blank"
               rel="noopener noreferrer"
             >
