@@ -134,6 +134,14 @@ export default function Footer() {
                   WhatsApp
                 </a>
               </li>
+              <li>
+                <a
+                  className="text-orange-200/65 transition hover:text-orange-500"
+                  href="mailto:agenciatukis@gmail.com"
+                >
+                  agenciatukis@gmail.com
+                </a>
+              </li>
             </ul>
           </div>
           {/* 5th block */}
@@ -142,10 +150,18 @@ export default function Footer() {
               <Logo width={100} height={40} />
             </div>
             <div className="text-sm">
-              <p className="mb-3 text-orange-200/65">
+              <p className="mb-2 text-orange-200/65">
                 &copy; 2025 Agência Tukis
                 <span className="text-gray-700"> &middot; </span>
                 Todos os direitos reservados.
+              </p>
+              <p className="mb-3">
+                <a
+                  className="text-orange-200/65 transition hover:text-orange-500 text-sm"
+                  href="mailto:agenciatukis@gmail.com"
+                >
+                  agenciatukis@gmail.com
+                </a>
               </p>
               <ul className="inline-flex gap-1">
                 <li>
@@ -168,7 +184,9 @@ export default function Footer() {
                 <li>
                   <a
                     className="flex items-center justify-center text-orange-500 transition hover:text-orange-400"
-                    href="#0"
+                    href="https://www.instagram.com/agenciatukis/"
+                    target="_blank"
+                    rel="noopener noreferrer"
                     aria-label="Instagram"
                   >
                     <svg

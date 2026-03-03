@@ -36,10 +36,10 @@ export default function Results() {
                 </p>
                 <div className="flex items-center gap-3">
                   <div className="flex h-9 w-9 items-center justify-center rounded-full bg-orange-500/20 text-sm font-semibold text-orange-400">
-                    DR
+                    RM
                   </div>
                   <div className="text-sm font-medium text-gray-200">
-                    <span>Dr. Ricardo M.</span>
+                    <span>Dr. Ricardo Mendes</span>
                     <span className="text-gray-700"> - </span>
                     <span className="text-orange-200/65">Clínica Odontológica</span>
                   </div>
@@ -71,7 +71,7 @@ export default function Results() {
                     AF
                   </div>
                   <div className="text-sm font-medium text-gray-200">
-                    <span>Ana F.</span>
+                    <span>Ana Ferreira</span>
                     <span className="text-gray-700"> - </span>
                     <span className="text-orange-200/65">Restaurante & Bistrô</span>
                   </div>
@@ -103,7 +103,7 @@ export default function Results() {
                     ML
                   </div>
                   <div className="text-sm font-medium text-gray-200">
-                    <span>Dr. Marcos L.</span>
+                    <span>Dr. Marcos Lima</span>
                     <span className="text-gray-700"> - </span>
                     <span className="text-orange-200/65">Escritório de Advocacia</span>
                   </div>
