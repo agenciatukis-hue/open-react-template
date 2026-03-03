@@ -29,7 +29,7 @@ export default function Results() {
                     </svg>
                   ))}
                 </div>
-                <p className="text-orange-200/65 before:content-['\u201C'] after:content-['\u201D']">
+                <p className="text-orange-200/65 before:content-['“'] after:content-['”']">
                   A Agência Tukis transformou a presença digital da minha clínica.
                   Em 3 meses, triplicamos o número de agendamentos vindos do Google.
                   O atendimento é excepcional e os resultados falam por si!
@@ -61,7 +61,7 @@ export default function Results() {
                     </svg>
                   ))}
                 </div>
-                <p className="text-orange-200/65 before:content-['\u201C'] after:content-['\u201D']">
+                <p className="text-orange-200/65 before:content-['“'] after:content-['”']">
                   Sempre tive medo de investir em marketing digital, mas a equipe
                   da Tukis me passou confiança desde o primeiro contato. Hoje meu
                   restaurante lota todos os dias graças às campanhas no Instagram.
@@ -93,7 +93,7 @@ export default function Results() {
                     </svg>
                   ))}
                 </div>
-                <p className="text-orange-200/65 before:content-['\u201C'] after:content-['\u201D']">
+                <p className="text-orange-200/65 before:content-['“'] after:content-['”']">
                   O trabalho de SEO e Google Meu Negócio da Tukis colocou meu
                   escritório de advocacia na primeira página do Google. Os
                   leads qualificados aumentaram em mais de 200%. Recomendo demais!
