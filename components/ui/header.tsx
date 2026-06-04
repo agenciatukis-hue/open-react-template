@@ -6,14 +6,14 @@ export default function Header() {
   return (
     <header className="z-30 mt-2 w-full md:mt-5">
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
-        <div className="relative flex h-14 items-center justify-between gap-3 rounded-2xl bg-white px-3 shadow-md">
-          {/* Site branding */}
-          <div className="flex flex-1 items-center gap-2">
-            <Logo width={90} height={36} />
+        <div className="relative flex h-28 items-center rounded-2xl bg-white px-4 shadow-md overflow-visible">
+          {/* Site branding - left */}
+          <div className="flex items-center gap-2">
+            <Logo width={160} height={160} />
           </div>
 
-          {/* Navigation */}
-          <nav className="hidden md:flex items-center gap-6">
+          {/* Navigation - absolutely centered */}
+          <nav className="absolute left-1/2 -translate-x-1/2 hidden md:flex items-center gap-6">
             <a
               href="#servicos"
               className="text-sm text-gray-700 transition hover:text-orange-500"
@@ -34,8 +34,8 @@ export default function Header() {
             </a>
           </nav>
 
-          {/* CTA */}
-          <div className="flex flex-1 items-center justify-end">
+          {/* CTA - right */}
+          <div className="ml-auto flex items-center">
             <a
               href="https://wa.me/5511940754639"
               target="_blank"
