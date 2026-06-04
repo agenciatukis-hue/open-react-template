@@ -1,6 +1,22 @@
+import Image from "next/image";
+import heroBg from "@/public/images/hero-background.png";
+
 export default function HeroHome() {
   return (
-    <section>
+    <section className="relative overflow-hidden">
+      {/* Background image */}
+      <div className="pointer-events-none absolute inset-0 -z-10" aria-hidden="true">
+        <Image
+          src={heroBg}
+          alt="Hero background"
+          fill
+          className="object-cover object-center"
+          priority
+          quality={90}
+        />
+        {/* Dark overlay for text readability */}
+        <div className="absolute inset-0 bg-gray-950/70" />
+      </div>
       <div className="mx-auto max-w-6xl px-4 sm:px-6">
         {/* Hero content */}
         <div className="py-12 md:py-20">
