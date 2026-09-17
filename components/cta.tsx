@@ -37,7 +37,7 @@ export default function Cta() {
               <div data-aos="fade-up" data-aos-delay={400}>
                 <a
                   className="btn group mb-4 w-full bg-linear-to-t from-orange-600 to-orange-500 bg-[length:100%_100%] bg-[bottom] text-white shadow-[inset_0px_1px_0px_0px_--theme(--color-white/.16)] hover:bg-[length:100%_150%] sm:mb-0 sm:w-auto"
-                  href="https://wa.me/5511940754639"
+                  href="https://wa.me/5511977436535?text=Olá,%20vim%20do%20seu%20site%20e%20quero%20escalar%20o%20meu%20negócio.%20Podemos%20conversar%3F"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
