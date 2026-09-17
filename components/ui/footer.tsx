@@ -81,7 +81,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-orange-200/65 transition hover:text-orange-500"
-                  href="https://wa.me/5511940754639"
+                  href="https://wa.me/5511977436535"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -127,7 +127,7 @@ export default function Footer() {
               <li>
                 <a
                   className="text-orange-200/65 transition hover:text-orange-500"
-                  href="https://wa.me/5511940754639"
+                  href="https://wa.me/5511977436535"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
@@ -167,7 +167,7 @@ export default function Footer() {
                 <li>
                   <a
                     className="flex items-center justify-center text-orange-500 transition hover:text-orange-400"
-                    href="https://wa.me/5511940754639"
+                    href="https://wa.me/5511977436535"
                     target="_blank"
                     rel="noopener noreferrer"
                     aria-label="WhatsApp"

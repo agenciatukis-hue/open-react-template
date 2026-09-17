@@ -37,7 +37,7 @@ export default function Header() {
           {/* CTA - right */}
           <div className="ml-auto flex items-center">
             <a
-              href="https://wa.me/5511940754639"
+              href="https://wa.me/5511977436535"
               target="_blank"
               rel="noopener noreferrer"
               className="btn-sm bg-linear-to-t from-orange-600 to-orange-500 bg-[length:100%_100%] bg-[bottom] py-[5px] text-white shadow-[inset_0px_1px_0px_0px_--theme(--color-white/.16)] hover:bg-[length:100%_150%]"
